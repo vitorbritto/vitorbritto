@@ -1,7 +1,5 @@
 ### Olá 👋
 
-🤔 **Sobre** 
-
 Meu nome é Vitor Britto. Um Software Engineer extremamente apaixonado pelo meu trabalho. Estou à frente da VB Web Studio, onde sou responsável por criar experiências únicas para a web, aliando o visual objetivo, prático e as tecnologias mais modernas para agregar valor ao seu produto.
 
 Descobri o mundo dos códigos há mais de duas décadas. Atualmente me encontro em Salvador - BA onde desenvolvo projetos para clientes do Nordeste, Sul, Sudeste e fora do Brasil, além de direcionar parte do meu tempo para pesquisas, desenvolvimento de projetos open-source e escrever artigos sobre tecnologia e desenvolvimento web.
