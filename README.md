@@ -1,5 +1,3 @@
-# Vitor Britto
-
 ### Hi! 👋
 
 My name is Vitor Britto. I'm a Senior Software Engineer.
