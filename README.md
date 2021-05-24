@@ -1,6 +1,6 @@
 ### Hi! 👋
 
-My name is Vitor Britto and I'm a Senior Software Engineer based in Brazil with over 20 years of experience in the software industry.
+My name is Vitor Britto and I'm a Software Developer based in Brazil with over 20 years of experience in the software industry.
 
 🚀 Check out my skills and tech stack bellow.
 
