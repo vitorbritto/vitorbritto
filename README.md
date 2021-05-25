@@ -1,6 +1,6 @@
-### Hi! 👋
+### Hey! 👋
 
-My name is Vitor Britto and I'm a Software Developer based in Brazil with over 20 years of experience in the software industry.
+I'm Vitor Britto, Software Developer @crosscheckin.
 
 🚀 Check out my skills and tech stack bellow.
 
