@@ -1,6 +1,6 @@
 ### Hey! 👋
 
-I'm Vitor Britto, Software Developer @crosscheckin.
+I'm Vitor Britto, Software Developer [@crosscheckin](https://github.com/crosscheckin).
 
 🚀 Check out my skills and tech stack bellow.
 
