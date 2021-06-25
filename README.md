@@ -13,5 +13,6 @@ I'm Vitor Britto, Senior Front-end Developer @ Invillia.
 
 <br />
 <br />
+
 ![Vitor Britto's GitHub stats](https://github-readme-stats.vercel.app/api?username=vitorbritto&count_private=true&theme=cobalt)
 
