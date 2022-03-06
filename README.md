@@ -47,6 +47,3 @@ I'm Vitor Britto, Senior Software Engineer @ Invillia.
 ![](https://raw.githubusercontent.com/vitorbritto/github-stats-transparent/output/generated/overview.svg)
 ![](https://raw.githubusercontent.com/vitorbritto/github-stats-transparent/output/generated/languages.svg)
 
-## 📚 Learning roadmap
-- [Labs](https://github.com/vitorbritto/labs)
-
