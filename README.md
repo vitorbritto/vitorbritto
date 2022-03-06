@@ -48,7 +48,5 @@ I'm Vitor Britto, Senior Software Engineer @ Invillia.
 ![](https://raw.githubusercontent.com/vitorbritto/github-stats-transparent/output/generated/languages.svg)
 
 ## 📚 Learning roadmap
-- [Java](https://github.com/vitorbritto/java-labs)
-- [Swift](https://github.com/vitorbritto/swift-labs)
-- [Python](https://github.com/vitorbritto/python-labs)
+- [Labs](https://github.com/vitorbritto/labs)
 
