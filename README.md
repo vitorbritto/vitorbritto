@@ -26,8 +26,6 @@ I'm Vitor Britto, Senior Software Engineer @ Invillia.
 ![NodeJS](https://img.shields.io/badge/NODEJS-black?style=flat-square&logo=node.js)
 ![ExpressJS](https://img.shields.io/badge/EXPRESSJS-black?style=flat-square&logo=express)
 ![NestJS](https://img.shields.io/badge/NESTJS-black?style=flat-square&logo=nestjs&logoColor=E0234E)
-![PHP](https://img.shields.io/badge/PHP-black?style=flat-square&logo=php)
-![Laravel](https://img.shields.io/badge/LARAVEL-black?style=flat-square&logo=laravel)
 
 ![MySQL](https://img.shields.io/badge/MySQL-black?style=flat-square&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-black?style=flat-square&logo=postgresql)
