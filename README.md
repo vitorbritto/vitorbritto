@@ -40,5 +40,5 @@
 
 ## Stats
 
-![](https://raw.githubusercontent.com/vitorbritto/github-stats-transparent/output/generated/overview.svg)
+![github stats](https://github-readme-stats.vercel.app/api?username=vitorbritto&show_icons=true&theme=dark)
 
