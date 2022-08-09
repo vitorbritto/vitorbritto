@@ -1,10 +1,10 @@
 # Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-💻 I develop web projects since Internet Explorer 6.
-🔭 I’m currently working on [BanQi](https://github.com/viavarejo-banqi) as a Senior Software Engineer
-🌱 I’m constantly learning new stuff!
-📱 I'm currently working with web and mobile applications.
-📫 How to reach me: vhbritto@gmail.com
+- 💻 I develop web projects since Internet Explorer 6.
+- 🔭 I’m currently working on [BanQi](https://github.com/viavarejo-banqi) as a Senior Software Engineer
+- 🌱 I’m constantly learning new stuff!
+- 📱 I'm currently working with web and mobile applications.
+- 📫 How to reach me: vhbritto@gmail.com
 
 ## Tech Stack & Tools
 
