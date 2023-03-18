@@ -13,6 +13,7 @@
 ![React](https://img.shields.io/badge/REACT-black?style=flat-square&logo=react)
 ![React Native](https://img.shields.io/badge/REACT_NATIVE-black?style=flat-square&logo=react)
 ![Next.js](https://img.shields.io/badge/NEXTJS-black?style=flat-square&logo=nextdotjs)
+![GraphQL](https://img.shields.io/badge/GRAPHQL-black?style=flat-square&logo=graphql&logoColor=E42C64)
 
 ![NodeJS](https://img.shields.io/badge/NODEJS-black?style=flat-square&logo=node.js)
 ![ExpressJS](https://img.shields.io/badge/EXPRESSJS-black?style=flat-square&logo=express)
