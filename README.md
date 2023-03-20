@@ -13,7 +13,6 @@
 ![Angular](https://img.shields.io/badge/ANGULAR-black?style=flat-square&logo=angular&logoColor=DD0031)
 ![React](https://img.shields.io/badge/REACT-black?style=flat-square&logo=react)
 ![Next.js](https://img.shields.io/badge/NEXTJS-black?style=flat-square&logo=nextdotjs)
-![GraphQL](https://img.shields.io/badge/GRAPHQL-black?style=flat-square&logo=graphql&logoColor=E42C64)
 ![React Native](https://img.shields.io/badge/REACT_NATIVE-black?style=flat-square&logo=react)
 
 ![NodeJS](https://img.shields.io/badge/NODEJS-black?style=flat-square&logo=node.js)
@@ -30,6 +29,7 @@
 ![Cypress](https://img.shields.io/badge/CYPRESS-black?style=flat-square&logo=cypress&logoColor=08ffc8)
 
 ![Git](https://img.shields.io/badge/GIT-000000?style=flat-square&logo=git&logoColor=orange)
+![GraphQL](https://img.shields.io/badge/GRAPHQL-black?style=flat-square&logo=graphql&logoColor=E42C64)
 ![Firebase](https://img.shields.io/badge/FIREBASE-black?style=flat-square&logo=firebase&logoColor=FFCA28)
 ![AWS](https://img.shields.io/badge/AWS-black?style=flat-square&logo=amazon-aws&logoColor=FF9900)
 ![Docker](https://img.shields.io/badge/DOCKER-black?style=flat-square&logo=docker&logoColor=0db7ed)
