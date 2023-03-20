@@ -26,6 +26,7 @@
 
 ![Mocha](https://img.shields.io/badge/MOCHA-black?style=flat-square&logo=mocha&locoColor=8D6748)
 ![Jest](https://img.shields.io/badge/JEST-black?style=flat-square&logo=jest&logoColor=C21325)
+![Cypress](https://img.shields.io/badge/CYPRESS-black?style=flat-square&logo=cypress&logoColor=08ffc8)
 
 ![Git](https://img.shields.io/badge/GIT-000000?style=flat-square&logo=git&logoColor=orange)
 ![Firebase](https://img.shields.io/badge/FIREBASE-black?style=flat-square&logo=firebase&logoColor=FFCA28)
