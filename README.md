@@ -10,10 +10,11 @@
 
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TYPESCRIPT-black?style=flat-square&logo=typescript)
+![Angular](https://img.shields.io/badge/ANGULAR-black?style=flat-square&logo=angular&logoColor=DD0031)
 ![React](https://img.shields.io/badge/REACT-black?style=flat-square&logo=react)
-![React Native](https://img.shields.io/badge/REACT_NATIVE-black?style=flat-square&logo=react)
 ![Next.js](https://img.shields.io/badge/NEXTJS-black?style=flat-square&logo=nextdotjs)
 ![GraphQL](https://img.shields.io/badge/GRAPHQL-black?style=flat-square&logo=graphql&logoColor=E42C64)
+![React Native](https://img.shields.io/badge/REACT_NATIVE-black?style=flat-square&logo=react)
 
 ![NodeJS](https://img.shields.io/badge/NODEJS-black?style=flat-square&logo=node.js)
 ![ExpressJS](https://img.shields.io/badge/EXPRESSJS-black?style=flat-square&logo=express)
