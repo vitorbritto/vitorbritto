@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on [BanQi](https://github.com/viavarejo-banqi) as a Senior Software Engineer
 - 🌱 I’m constantly learning new stuff!
 - 📱 I'm currently working with web and mobile applications.
-- 📫 How to reach me: vhbritto@gmail.com
+- 📫 How to reach me: vhbritto@outlook.com
 
 ## Tech Stack
 
