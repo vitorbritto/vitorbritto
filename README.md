@@ -1,11 +1,11 @@
 # Hey, I'm Vitor Britto <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> !
 
 - 💻 I develop web projects since Internet Explorer 6.
-- 🔭 I’m a Senior Software Engineer
+- 👔 I’m a Senior Software Engineer
 - 🌱 I’m constantly learning new stuff!
 - 📱 I'm currently working with web and mobile applications.
-- 😍 I work with JavaScript and its Technologies.
-- 📫 How to reach me: vhbritto@outlook.com
+- 😍 I build amazing solutions with **JavaScript** and its Technologies.
+- 📫 Reach me at: vhbritto@outlook.com
 
 ## Tech Stack
 
