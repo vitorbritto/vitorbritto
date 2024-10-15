@@ -11,9 +11,10 @@
 
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TYPESCRIPT-black?style=flat-square&logo=typescript)
+![React Native](https://img.shields.io/badge/REACT_NATIVE-black?style=flat-square&logo=react)
 ![React](https://img.shields.io/badge/REACT-black?style=flat-square&logo=react)
 ![Next.js](https://img.shields.io/badge/NEXTJS-black?style=flat-square&logo=nextdotjs)
-![React Native](https://img.shields.io/badge/REACT_NATIVE-black?style=flat-square&logo=react)
+![Tailwind](https://img.shields.io/badge/TAILWIND-black?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
 
 ![NodeJS](https://img.shields.io/badge/NODEJS-black?style=flat-square&logo=node.js)
 ![ExpressJS](https://img.shields.io/badge/EXPRESSJS-black?style=flat-square&logo=express)
@@ -25,6 +26,7 @@
 ![MongoDB](https://img.shields.io/badge/MONGODB-black?style=flat-square&logo=mongodb)
 ![Redis](https://img.shields.io/badge/REDIS-black?style=flat-square&logo=redis&logoColor=DD0031)
 
+![Vitest](https://img.shields.io/badge/VITEST-black?style=flat-square&logo=vitest&logoColor=6E9F18)
 ![Jest](https://img.shields.io/badge/JEST-black?style=flat-square&logo=jest&logoColor=C21325)
 ![Cypress](https://img.shields.io/badge/CYPRESS-black?style=flat-square&logo=cypress&logoColor=08ffc8)
 
@@ -33,8 +35,3 @@
 ![Docker](https://img.shields.io/badge/DOCKER-black?style=flat-square&logo=docker&logoColor=0db7ed)
 ![Grafana](https://img.shields.io/badge/GRAFANA-black?style=flat-square&logo=grafana&logoColor=F46800)
 ![Datadog](https://img.shields.io/badge/DATADOG-black?style=flat-square&logo=datadog&logoColor=B20FFF)
-
-## Stats
-
-![github stats](https://github-readme-stats.vercel.app/api?username=vitorbritto&show_icons=true&theme=dark)
-
