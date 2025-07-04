@@ -3,8 +3,8 @@
 - 💻 I develop web projects since Internet Explorer 6.
 - 👔 I’m a Senior Software Engineer
 - 🌱 I’m constantly learning new stuff!
-- 📱 I'm currently working with web and mobile applications.
-- 😍 I build amazing solutions with **JavaScript** and its Technologies.
+- 📱 I work with web and mobile applications.
+- 😍 I build amazing solutions with **TypeScript** and its Technologies.
 - 📫 Reach me at: vhbritto@outlook.com
 
 ## Tech Stack
