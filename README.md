@@ -4,7 +4,7 @@
 - 👔 I’m a Senior Software Engineer
 - 🌱 I’m constantly learning new stuff!
 - 📱 I work with web and mobile applications.
-- 😍 I build amazing solutions with **TypeScript** and its Technologies.
+- 😍 I build amazing solutions with **JavaScript** and its Technologies.
 - 📫 Reach me at: vhbritto@outlook.com
 
 ## Tech Stack
